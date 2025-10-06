@@ -1,0 +1,17 @@
+C:\Users\LL369\Desktop\QuanLiCafe\Cafe_Management\Cafe_Management\bin\Debug\net8.0-windows\Cafe_Management.exe
+C:\Users\LL369\Desktop\QuanLiCafe\Cafe_Management\Cafe_Management\bin\Debug\net8.0-windows\Cafe_Management.deps.json
+C:\Users\LL369\Desktop\QuanLiCafe\Cafe_Management\Cafe_Management\bin\Debug\net8.0-windows\Cafe_Management.runtimeconfig.json
+C:\Users\LL369\Desktop\QuanLiCafe\Cafe_Management\Cafe_Management\bin\Debug\net8.0-windows\Cafe_Management.dll
+C:\Users\LL369\Desktop\QuanLiCafe\Cafe_Management\Cafe_Management\bin\Debug\net8.0-windows\Cafe_Management.pdb
+C:\Users\LL369\Desktop\QuanLiCafe\Cafe_Management\Cafe_Management\obj\Debug\net8.0-windows\Cafe_Management.Form1.resources
+C:\Users\LL369\Desktop\QuanLiCafe\Cafe_Management\Cafe_Management\obj\Debug\net8.0-windows\Cafe_Management.csproj.GenerateResource.cache
+C:\Users\LL369\Desktop\QuanLiCafe\Cafe_Management\Cafe_Management\obj\Debug\net8.0-windows\Cafe_Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LL369\Desktop\QuanLiCafe\Cafe_Management\Cafe_Management\obj\Debug\net8.0-windows\Cafe_Management.AssemblyInfoInputs.cache
+C:\Users\LL369\Desktop\QuanLiCafe\Cafe_Management\Cafe_Management\obj\Debug\net8.0-windows\Cafe_Management.AssemblyInfo.cs
+C:\Users\LL369\Desktop\QuanLiCafe\Cafe_Management\Cafe_Management\obj\Debug\net8.0-windows\Cafe_Management.csproj.CoreCompileInputs.cache
+C:\Users\LL369\Desktop\QuanLiCafe\Cafe_Management\Cafe_Management\obj\Debug\net8.0-windows\Cafe_Management.sourcelink.json
+C:\Users\LL369\Desktop\QuanLiCafe\Cafe_Management\Cafe_Management\obj\Debug\net8.0-windows\Cafe_Management.dll
+C:\Users\LL369\Desktop\QuanLiCafe\Cafe_Management\Cafe_Management\obj\Debug\net8.0-windows\refint\Cafe_Management.dll
+C:\Users\LL369\Desktop\QuanLiCafe\Cafe_Management\Cafe_Management\obj\Debug\net8.0-windows\Cafe_Management.pdb
+C:\Users\LL369\Desktop\QuanLiCafe\Cafe_Management\Cafe_Management\obj\Debug\net8.0-windows\Cafe_Management.genruntimeconfig.cache
+C:\Users\LL369\Desktop\QuanLiCafe\Cafe_Management\Cafe_Management\obj\Debug\net8.0-windows\ref\Cafe_Management.dll
